@@ -7,7 +7,6 @@ import sys
 '''
 Created on Sun Jun 11 17:43:33 2023
 @author: leenapthine
-@author: V00986425
 '''
 
 
