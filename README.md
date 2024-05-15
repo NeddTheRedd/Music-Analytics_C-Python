@@ -21,4 +21,6 @@ Example input: **music_manager.py --sortBy=energy --display=20 --files=songs_nor
 ### Music Manager in C
 <a name="C"></a>
 
+The C-based [Music Manager](https://github.com/NeddTheRedd/Music-Analytics_C-Python/blob/main/music_manager.c) performs a very similar function as the Python-based version above. However, here I demonstrate proficiency using memory allocation and dynamic data structures. The program was developed from a 'skeleton' starter file and was a university assignment. It is assembled by running the provided [makefile](https://github.com/NeddTheRedd/Music-Analytics_C-Python/blob/main/makefile) (to do so, use the make command in Bash). The commands required to test the program are specific to my school testfile.md file, which I am unfortunately unable to provide.  
+
 ---
