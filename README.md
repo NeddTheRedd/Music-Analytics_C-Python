@@ -6,6 +6,7 @@ This repository hosts two descriptive analytics programs: one written in C and t
 * [Music Manager in C](#C)
 
 ---
+
 ### Music Manager in Python
 <a name="Python"></a>
 
@@ -18,6 +19,7 @@ Example input: **music_manager.py --sortBy=energy --display=20 --files=songs_nor
 <img width="450" alt="Screen Shot 2024-05-14 at 10 31 34 PM" src="https://github.com/NeddTheRedd/Music-Analytics_C-Python/assets/153869055/d7e2a138-18c8-4c22-837d-591b913b5ba7">
 
 ---
+
 ### Music Manager in C
 <a name="C"></a>
 
